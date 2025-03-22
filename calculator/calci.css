@@ -1,0 +1,116 @@
+/* 
+.cls{
+    display : grid;
+    grid-template-columns: 0fr 0fr 0fr 0fr;
+    margin-top: 10px;
+    
+    
+}
+.num{
+    width:40px;
+    height: 40px;
+}
+input{
+    width:153px;
+    margin-top: 20px;
+    outline:none;
+    height:20px;
+    
+}
+
+.sec{
+    display: flex;
+    flex-direction: row;
+    margin-top:15px;
+}
+.acc,.equ{
+    
+  
+    width:48px;
+    height: 30px;
+
+    
+}
+
+.calci{
+      
+    width:200px;
+    margin-left:300px;
+    margin-top:90px;
+    height:280px;
+    background-color: rgb(114, 117, 117);
+    
+ }
+ .calci2{
+    margin-left:20px;    
+ } */
+
+.cls{
+    display:grid;
+    grid-template-columns: 0fr 0fr 0fr 0fr;
+    margin-top:10px;
+    
+    
+    
+    
+}
+.num{
+    
+        width:40px;
+        height: 40px;
+        border-radius:8px;
+        border:none;
+        margin:1px;  
+        
+}
+.calci{
+    padding:10px;
+    width:200px;
+    margin-left:300px;
+    margin-top:90px;
+    height:280px;
+    background-color: rgb(114, 117, 117);
+    border-radius:18px;
+   
+    
+    
+ }
+ .calci2{
+    margin-left:20px;
+   
+ }
+ .input{
+    width:153px;
+    margin-top: 20px;
+    outline:none;
+    height:20px;
+    
+    
+}
+.cls :hover{
+    background-color: lightblue;
+    
+}
+.ac{
+    border-radius:8px;
+    border:none;
+    border-radius:0px;
+    margin:1px;
+    border-radius:8px;
+}
+.bk{
+    border-radius:8px;
+    border:none;
+    border-radius:0px;
+    margin:1px;
+    border-radius:8px;
+    
+}
+.equal{
+    border-radius:8px;
+    border:none;
+    margin:1px;
+    border-radius:0px;
+    border-radius:8px;
+}
+
